@@ -1,0 +1,5 @@
+﻿
+interface IShape
+{
+    double GetArea();
+}
